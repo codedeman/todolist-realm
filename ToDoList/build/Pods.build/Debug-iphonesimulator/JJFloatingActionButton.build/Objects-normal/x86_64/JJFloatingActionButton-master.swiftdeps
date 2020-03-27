@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "72c6c0d15ee0968c7f05be2df7f60382"
+build_time: [1585190203, 821769000]
+inputs:
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/AnimationConfiguration.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJActionItem.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJActionItemTitlePosition.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJCircleView.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJFloatingActionButton+Animation.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJFloatingActionButton+Placement.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJFloatingActionButton.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJFloatingActionButtonDelegate.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/JJFloatingActionButtonState.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/LayerProperties.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/Styles.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/UIColor+JJFloatingActionButton.swift": [1585190136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/JJFloatingActionButton/Sources/UIView+JJFloatingActionButton.swift": [1585190136, 0]

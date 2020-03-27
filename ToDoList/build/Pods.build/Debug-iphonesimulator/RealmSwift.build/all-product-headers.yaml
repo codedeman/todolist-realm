@@ -1,0 +1,136 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/JJFloatingActionButton/JJFloatingActionButton.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JJFloatingActionButton-Swift.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/JJFloatingActionButton/JJFloatingActionButton.framework/Headers/JJFloatingActionButton-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JJFloatingActionButton-umbrella.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/Target Support Files/JJFloatingActionButton/JJFloatingActionButton-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/JJFloatingActionButton/JJFloatingActionButton.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Pods.build/Debug-iphonesimulator/JJFloatingActionButton.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Pods_ToDoList.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-ToDoList-umbrella.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/Target Support Files/Pods-ToDoList/Pods-ToDoList-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_ToDoList-Swift.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Pods_ToDoList.framework/Headers/Pods_ToDoList-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Pods_ToDoList.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Pods.build/Debug-iphonesimulator/Pods-ToDoList.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Realm-Swift.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/Realm-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Pods.build/Debug-iphonesimulator/Realm.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RealmSwift-Swift.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Headers/RealmSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RealmSwift-umbrella.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/Target Support Files/RealmSwift/RealmSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/SnapKit/SnapKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SnapKit-Swift.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/SnapKit/SnapKit.framework/Headers/SnapKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SnapKit-umbrella.h",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/SnapKit/SnapKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Pods.build/Debug-iphonesimulator/SnapKit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

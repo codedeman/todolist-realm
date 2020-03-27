@@ -1,0 +1,723 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TaskTableViewCell"
+provides-nominal:
+- "8ToDoList17TaskTableViewCellC"
+provides-member:
+- ["8ToDoList17TaskTableViewCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "buttonClicked"
+- "imageCheckBox"
+- "setSelected"
+- "timeLabel"
+- "titleLabel"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- "CheckBoxButton"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "StringLiteralType"
+- "TaskTableViewCell"
+- "UIImage"
+- "UILabel"
+- "UITableViewCell"
+depends-member:
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["So15CALayerDelegateP", "UIImage"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "awakeFromNib"]
+- !private ["So15CALayerDelegateP", "buttonClicked"]
+- !private ["So15CALayerDelegateP", "checkedImage"]
+- !private ["So15CALayerDelegateP", "imageCheckBox"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "isChecked"]
+- !private ["So15CALayerDelegateP", "setImage"]
+- !private ["So15CALayerDelegateP", "setSelected"]
+- !private ["So15CALayerDelegateP", "uncheckedImage"]
+- ["s7CVarArgP", "UIImage"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "buttonClicked"]
+- !private ["s7CVarArgP", "checkedImage"]
+- !private ["s7CVarArgP", "imageCheckBox"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isChecked"]
+- !private ["s7CVarArgP", "setImage"]
+- !private ["s7CVarArgP", "setSelected"]
+- !private ["s7CVarArgP", "uncheckedImage"]
+- !private ["8ToDoList14CheckBoxButtonC", "addTarget"]
+- !private ["8ToDoList14CheckBoxButtonC", "setImage"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["7SnapKit25ConstraintRelatableTargetP", "UIImage"]
+- ["7SnapKit25ConstraintRelatableTargetP", ""]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "addTarget"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "awakeFromNib"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "buttonClicked"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "checkedImage"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "imageCheckBox"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "init"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "init"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "isChecked"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "setImage"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "setSelected"]
+- !private ["7SnapKit25ConstraintRelatableTargetP", "uncheckedImage"]
+- ["s28CustomDebugStringConvertibleP", "UIImage"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "buttonClicked"]
+- !private ["s28CustomDebugStringConvertibleP", "checkedImage"]
+- !private ["s28CustomDebugStringConvertibleP", "imageCheckBox"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isChecked"]
+- !private ["s28CustomDebugStringConvertibleP", "setImage"]
+- !private ["s28CustomDebugStringConvertibleP", "setSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "uncheckedImage"]
+- !private ["10RealmSwift26CustomObjectiveCBridgeableP", "addTarget"]
+- !private ["10RealmSwift26CustomObjectiveCBridgeableP", "setImage"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "addTarget"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "setImage"]
+- ["s23CustomStringConvertibleP", "UIImage"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "buttonClicked"]
+- !private ["s23CustomStringConvertibleP", "checkedImage"]
+- !private ["s23CustomStringConvertibleP", "imageCheckBox"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isChecked"]
+- !private ["s23CustomStringConvertibleP", "setImage"]
+- !private ["s23CustomStringConvertibleP", "setSelected"]
+- !private ["s23CustomStringConvertibleP", "uncheckedImage"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "addTarget"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "setImage"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "addTarget"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "setImage"]
+- ["SQ", "UIImage"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addTarget"]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "buttonClicked"]
+- !private ["SQ", "checkedImage"]
+- !private ["SQ", "imageCheckBox"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "isChecked"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "setImage"]
+- !private ["SQ", "setSelected"]
+- !private ["SQ", "touchUpInside"]
+- !private ["SQ", "uncheckedImage"]
+- !private ["So15UIControlEventsV", "touchUpInside"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s25ExpressibleByArrayLiteralP", "touchUpInside"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "addTarget"]
+- !private ["s23ExpressibleByNilLiteralP", "setImage"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "UIImage"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addTarget"]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "buttonClicked"]
+- !private ["SH", "checkedImage"]
+- !private ["SH", "imageCheckBox"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "isChecked"]
+- !private ["SH", "setImage"]
+- !private ["SH", "setSelected"]
+- !private ["SH", "uncheckedImage"]
+- ["7SnapKit20LayoutConstraintItemP", "UIImage"]
+- ["7SnapKit20LayoutConstraintItemP", ""]
+- !private ["7SnapKit20LayoutConstraintItemP", "addTarget"]
+- !private ["7SnapKit20LayoutConstraintItemP", "awakeFromNib"]
+- !private ["7SnapKit20LayoutConstraintItemP", "buttonClicked"]
+- !private ["7SnapKit20LayoutConstraintItemP", "checkedImage"]
+- !private ["7SnapKit20LayoutConstraintItemP", "imageCheckBox"]
+- !private ["7SnapKit20LayoutConstraintItemP", "init"]
+- !private ["7SnapKit20LayoutConstraintItemP", "init"]
+- !private ["7SnapKit20LayoutConstraintItemP", "isChecked"]
+- !private ["7SnapKit20LayoutConstraintItemP", "setImage"]
+- !private ["7SnapKit20LayoutConstraintItemP", "setSelected"]
+- !private ["7SnapKit20LayoutConstraintItemP", "uncheckedImage"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "UIImage"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "awakeFromNib"]
+- !private ["So8NSCodingP", "buttonClicked"]
+- !private ["So8NSCodingP", "checkedImage"]
+- !private ["So8NSCodingP", "imageCheckBox"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isChecked"]
+- !private ["So8NSCodingP", "setImage"]
+- !private ["So8NSCodingP", "setSelected"]
+- !private ["So8NSCodingP", "uncheckedImage"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CheckBoxButton"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UILabel"]
+- !private ["So8NSObjectC", "addTarget"]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "buttonClicked"]
+- ["So8NSObjectC", "checkedImage"]
+- ["So8NSObjectC", "imageCheckBox"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isChecked"]
+- !private ["So8NSObjectC", "setImage"]
+- ["So8NSObjectC", "setSelected"]
+- ["So8NSObjectC", "tab"]
+- ["So8NSObjectC", "timeLabel"]
+- ["So8NSObjectC", "titleLabel"]
+- ["So8NSObjectC", "uncheckedImage"]
+- ["So8NSObjectP", "UIImage"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addTarget"]
+- !private ["So8NSObjectP", "awakeFromNib"]
+- !private ["So8NSObjectP", "buttonClicked"]
+- !private ["So8NSObjectP", "checkedImage"]
+- !private ["So8NSObjectP", "imageCheckBox"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isChecked"]
+- !private ["So8NSObjectP", "setImage"]
+- !private ["So8NSObjectP", "setSelected"]
+- !private ["So8NSObjectP", "uncheckedImage"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["s9OptionSetP", "touchUpInside"]
+- !private ["Sq", "addTarget"]
+- !private ["Sq", "setImage"]
+- !private ["10RealmSwift16OptionalProtocolP", "addTarget"]
+- !private ["10RealmSwift16OptionalProtocolP", "setImage"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["SY", "normal"]
+- !private ["SY", "touchUpInside"]
+- !private ["10RealmSwift0A15CollectionValueP", "_getBuiltinLogicValue"]
+- !private ["10RealmSwift0A15CollectionValueP", "addTarget"]
+- ["10RealmSwift0A15CollectionValueP", "init"]
+- ["10RealmSwift0A15CollectionValueP", "init"]
+- !private ["10RealmSwift0A15CollectionValueP", "setImage"]
+- !private ["10RealmSwift0A12OptionalTypeP", "_getBuiltinLogicValue"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["s10SetAlgebraP", "touchUpInside"]
+- !private ["So14UIControlStateV", "normal"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["8ToDoList17TaskTableViewCellC", "Bool"]
+- ["8ToDoList17TaskTableViewCellC", "CheckBoxButton"]
+- ["8ToDoList17TaskTableViewCellC", "UIImage"]
+- ["8ToDoList17TaskTableViewCellC", "UILabel"]
+- ["8ToDoList17TaskTableViewCellC", "awakeFromNib"]
+- ["8ToDoList17TaskTableViewCellC", "buttonClicked"]
+- ["8ToDoList17TaskTableViewCellC", "checkedImage"]
+- ["8ToDoList17TaskTableViewCellC", "imageCheckBox"]
+- ["8ToDoList17TaskTableViewCellC", "init"]
+- ["8ToDoList17TaskTableViewCellC", "isChecked"]
+- ["8ToDoList17TaskTableViewCellC", "setSelected"]
+- ["8ToDoList17TaskTableViewCellC", "tab"]
+- ["8ToDoList17TaskTableViewCellC", "timeLabel"]
+- ["8ToDoList17TaskTableViewCellC", "titleLabel"]
+- ["8ToDoList17TaskTableViewCellC", "uncheckedImage"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "addTarget"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setImage"]
+- ["So29UIAccessibilityIdentificationP", "UIImage"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- !private ["So29UIAccessibilityIdentificationP", "buttonClicked"]
+- !private ["So29UIAccessibilityIdentificationP", "checkedImage"]
+- !private ["So29UIAccessibilityIdentificationP", "imageCheckBox"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "isChecked"]
+- !private ["So29UIAccessibilityIdentificationP", "setImage"]
+- !private ["So29UIAccessibilityIdentificationP", "setSelected"]
+- !private ["So29UIAccessibilityIdentificationP", "uncheckedImage"]
+- ["So12UIAppearanceP", "UIImage"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "awakeFromNib"]
+- !private ["So12UIAppearanceP", "buttonClicked"]
+- !private ["So12UIAppearanceP", "checkedImage"]
+- !private ["So12UIAppearanceP", "imageCheckBox"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "isChecked"]
+- !private ["So12UIAppearanceP", "setImage"]
+- !private ["So12UIAppearanceP", "setSelected"]
+- !private ["So12UIAppearanceP", "uncheckedImage"]
+- ["So21UIAppearanceContainerP", "UIImage"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "awakeFromNib"]
+- !private ["So21UIAppearanceContainerP", "buttonClicked"]
+- !private ["So21UIAppearanceContainerP", "checkedImage"]
+- !private ["So21UIAppearanceContainerP", "imageCheckBox"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isChecked"]
+- !private ["So21UIAppearanceContainerP", "setImage"]
+- !private ["So21UIAppearanceContainerP", "setSelected"]
+- !private ["So21UIAppearanceContainerP", "uncheckedImage"]
+- !private ["So8UIButtonC", "addTarget"]
+- !private ["So8UIButtonC", "setImage"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "setImage"]
+- ["So17UICoordinateSpaceP", "UIImage"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "awakeFromNib"]
+- !private ["So17UICoordinateSpaceP", "buttonClicked"]
+- !private ["So17UICoordinateSpaceP", "checkedImage"]
+- !private ["So17UICoordinateSpaceP", "imageCheckBox"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "isChecked"]
+- !private ["So17UICoordinateSpaceP", "setImage"]
+- !private ["So17UICoordinateSpaceP", "setSelected"]
+- !private ["So17UICoordinateSpaceP", "uncheckedImage"]
+- ["So13UIDynamicItemP", "UIImage"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "awakeFromNib"]
+- !private ["So13UIDynamicItemP", "buttonClicked"]
+- !private ["So13UIDynamicItemP", "checkedImage"]
+- !private ["So13UIDynamicItemP", "imageCheckBox"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "isChecked"]
+- !private ["So13UIDynamicItemP", "setImage"]
+- !private ["So13UIDynamicItemP", "setSelected"]
+- !private ["So13UIDynamicItemP", "uncheckedImage"]
+- ["So18UIFocusEnvironmentP", "UIImage"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- !private ["So18UIFocusEnvironmentP", "buttonClicked"]
+- !private ["So18UIFocusEnvironmentP", "checkedImage"]
+- !private ["So18UIFocusEnvironmentP", "imageCheckBox"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isChecked"]
+- !private ["So18UIFocusEnvironmentP", "setImage"]
+- !private ["So18UIFocusEnvironmentP", "setSelected"]
+- !private ["So18UIFocusEnvironmentP", "uncheckedImage"]
+- ["So11UIFocusItemP", "UIImage"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "awakeFromNib"]
+- !private ["So11UIFocusItemP", "buttonClicked"]
+- !private ["So11UIFocusItemP", "checkedImage"]
+- !private ["So11UIFocusItemP", "imageCheckBox"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "isChecked"]
+- !private ["So11UIFocusItemP", "setImage"]
+- !private ["So11UIFocusItemP", "setSelected"]
+- !private ["So11UIFocusItemP", "uncheckedImage"]
+- ["So20UIFocusItemContainerP", "UIImage"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "addTarget"]
+- !private ["So20UIFocusItemContainerP", "awakeFromNib"]
+- !private ["So20UIFocusItemContainerP", "buttonClicked"]
+- !private ["So20UIFocusItemContainerP", "checkedImage"]
+- !private ["So20UIFocusItemContainerP", "imageCheckBox"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "isChecked"]
+- !private ["So20UIFocusItemContainerP", "setImage"]
+- !private ["So20UIFocusItemContainerP", "setSelected"]
+- !private ["So20UIFocusItemContainerP", "uncheckedImage"]
+- ["So27UIGestureRecognizerDelegateP", "UIImage"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- !private ["So27UIGestureRecognizerDelegateP", "awakeFromNib"]
+- !private ["So27UIGestureRecognizerDelegateP", "buttonClicked"]
+- !private ["So27UIGestureRecognizerDelegateP", "checkedImage"]
+- !private ["So27UIGestureRecognizerDelegateP", "imageCheckBox"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "isChecked"]
+- !private ["So27UIGestureRecognizerDelegateP", "setSelected"]
+- !private ["So27UIGestureRecognizerDelegateP", "uncheckedImage"]
+- ["So7UIImageC", "init"]
+- ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- !private ["So30UIPasteConfigurationSupportingP", "buttonClicked"]
+- !private ["So30UIPasteConfigurationSupportingP", "checkedImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageCheckBox"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isChecked"]
+- !private ["So30UIPasteConfigurationSupportingP", "setImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "setSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "uncheckedImage"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CheckBoxButton"]
+- ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UILabel"]
+- !private ["So11UIResponderC", "addTarget"]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "buttonClicked"]
+- ["So11UIResponderC", "checkedImage"]
+- ["So11UIResponderC", "imageCheckBox"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "isChecked"]
+- !private ["So11UIResponderC", "setImage"]
+- ["So11UIResponderC", "setSelected"]
+- ["So11UIResponderC", "tab"]
+- ["So11UIResponderC", "timeLabel"]
+- ["So11UIResponderC", "titleLabel"]
+- ["So11UIResponderC", "uncheckedImage"]
+- ["So30UIResponderStandardEditActionsP", "UIImage"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- !private ["So30UIResponderStandardEditActionsP", "buttonClicked"]
+- !private ["So30UIResponderStandardEditActionsP", "checkedImage"]
+- !private ["So30UIResponderStandardEditActionsP", "imageCheckBox"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isChecked"]
+- !private ["So30UIResponderStandardEditActionsP", "setImage"]
+- !private ["So30UIResponderStandardEditActionsP", "setSelected"]
+- !private ["So30UIResponderStandardEditActionsP", "uncheckedImage"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addTarget"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setImage"]
+- ["So15UITableViewCellC", "Bool"]
+- ["So15UITableViewCellC", "CheckBoxButton"]
+- ["So15UITableViewCellC", "UIImage"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "awakeFromNib"]
+- ["So15UITableViewCellC", "buttonClicked"]
+- ["So15UITableViewCellC", "checkedImage"]
+- ["So15UITableViewCellC", "imageCheckBox"]
+- ["So15UITableViewCellC", "init"]
+- !private ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "isChecked"]
+- ["So15UITableViewCellC", "setSelected"]
+- ["So15UITableViewCellC", "tab"]
+- ["So15UITableViewCellC", "timeLabel"]
+- ["So15UITableViewCellC", "titleLabel"]
+- ["So15UITableViewCellC", "uncheckedImage"]
+- ["So18UITraitEnvironmentP", "UIImage"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "awakeFromNib"]
+- !private ["So18UITraitEnvironmentP", "buttonClicked"]
+- !private ["So18UITraitEnvironmentP", "checkedImage"]
+- !private ["So18UITraitEnvironmentP", "imageCheckBox"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isChecked"]
+- !private ["So18UITraitEnvironmentP", "setImage"]
+- !private ["So18UITraitEnvironmentP", "setSelected"]
+- !private ["So18UITraitEnvironmentP", "uncheckedImage"]
+- ["So23UIUserActivityRestoringP", "UIImage"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addTarget"]
+- !private ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- !private ["So23UIUserActivityRestoringP", "buttonClicked"]
+- !private ["So23UIUserActivityRestoringP", "checkedImage"]
+- !private ["So23UIUserActivityRestoringP", "imageCheckBox"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isChecked"]
+- !private ["So23UIUserActivityRestoringP", "setImage"]
+- !private ["So23UIUserActivityRestoringP", "setSelected"]
+- !private ["So23UIUserActivityRestoringP", "uncheckedImage"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "CheckBoxButton"]
+- ["So6UIViewC", "UIImage"]
+- ["So6UIViewC", "UILabel"]
+- !private ["So6UIViewC", "addTarget"]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "buttonClicked"]
+- ["So6UIViewC", "checkedImage"]
+- ["So6UIViewC", "imageCheckBox"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "isChecked"]
+- !private ["So6UIViewC", "setImage"]
+- ["So6UIViewC", "setSelected"]
+- ["So6UIViewC", "tab"]
+- ["So6UIViewC", "timeLabel"]
+- ["So6UIViewC", "titleLabel"]
+- ["So6UIViewC", "uncheckedImage"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "UIImage"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "buttonClicked"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "checkedImage"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageCheckBox"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isChecked"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setImage"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setSelected"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "uncheckedImage"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s26_ExpressibleByImageLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "buttonClicked"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "checkedImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageCheckBox"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isChecked"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uncheckedImage"]
+- !private ["10RealmSwift20_ManagedPropertyTypeP", "_getBuiltinLogicValue"]
+- !private ["10RealmSwift20_ManagedPropertyTypeP", "addTarget"]
+- ["10RealmSwift20_ManagedPropertyTypeP", "init"]
+- ["10RealmSwift20_ManagedPropertyTypeP", "init"]
+- !private ["10RealmSwift20_ManagedPropertyTypeP", "setImage"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "addTarget"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "setImage"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "SK"
+- !private "Sb"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "8ToDoList14CheckBoxButtonC"
+- "Sl"
+- "SL"
+- "7SnapKit25ConstraintRelatableTargetP"
+- "s28CustomDebugStringConvertibleP"
+- !private "10RealmSwift26CustomObjectiveCBridgeableP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "So15UIControlEventsV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "7SnapKit20LayoutConstraintItemP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "10RealmSwift16OptionalProtocolP"
+- "Sm"
+- !private "SY"
+- "10RealmSwift0A15CollectionValueP"
+- !private "10RealmSwift0A12OptionalTypeP"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- "SS"
+- "Sy"
+- "8ToDoList17TaskTableViewCellC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- !private "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So7UIImageC"
+- "So39UIItemProviderPresentationSizeProvidingP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s26_ExpressibleByImageLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10RealmSwift20_ManagedPropertyTypeP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/JJFloatingActionButton/JJFloatingActionButton.framework/Modules/JJFloatingActionButton.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Modules/RealmSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/SnapKit/SnapKit.framework/Modules/SnapKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/JJFloatingActionButton/JJFloatingActionButton.framework/Headers/JJFloatingActionButton-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Headers/RealmSwift-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/SnapKit/SnapKit.framework/Headers/SnapKit-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSchema.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObjectSchema.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObjectBase_Dynamic.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealm_Dynamic.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealm+Sync.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealmConfiguration+Sync.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/NSError+RLMSync.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMThreadSafeReference.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObjectStore.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMOptionalBase.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObjectBase.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMListBase.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMSchema_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObjectSchema_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObjectBase_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMSyncUtil_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMRealm_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMSyncConfiguration_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMRealmConfiguration_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMCollection_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMResults_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObject_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMArray_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMProperty_Private.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncUtil.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/Realm.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealm.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMPlatform.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncSession.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncPermission.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMMigration.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncConfiguration.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealmConfiguration.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMCollection.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncSubscription.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncManager.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncUser.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMAccessor.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncCredentials.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMResults.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMConstants.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObject.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/JJFloatingActionButton/JJFloatingActionButton.framework/Headers/JJFloatingActionButton-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Headers/RealmSwift-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/SnapKit/SnapKit.framework/Headers/SnapKit-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMArray.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMProperty.h"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/Realm/Realm.framework/Modules/module.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/JJFloatingActionButton/JJFloatingActionButton.framework/Modules/module.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Modules/module.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/ToDoList/build/Debug-iphonesimulator/SnapKit/SnapKit.framework/Modules/module.modulemap"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8f5e6a7e7889fbd98c28ca08ef531a3d"

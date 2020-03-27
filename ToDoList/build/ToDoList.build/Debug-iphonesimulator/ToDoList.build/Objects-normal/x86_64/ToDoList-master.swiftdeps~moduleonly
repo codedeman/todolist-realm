@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "3c3e5ea309d91ca134c4712eb8a8d275"
+build_time: [1585220886, 330096000]
+inputs:
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/PopUp/PopupSelectDate.swift": [1585220182, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Models/Task.swift": [1585189427, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Controller/CreateNewTask.swift": [1585220886, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Untitils/CheckBoxButton.swift": [1585207545, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Cell/TaskTableViewCell.swift": [1585208490, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Cell/CategoryTask.swift": [1585102897, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Controller/MainViewController.swift": [1585220615, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Controller/HomeVC.swift": [1585212592, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/ViewController.swift": [1585040365, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/Models/ToDoListItem.swift": [1585042158, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/ToDoList/ToDoList/AppDelegate.swift": [1585220295, 0]
